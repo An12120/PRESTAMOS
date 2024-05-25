@@ -1,0 +1,1 @@
+Aplicación web para la gestión de préstamos con un formulario interactivo para ingresar y validar datos de clientes y préstamos, y un modal para realizar pagos. Desarrollada con HTML, CSS y Bootstrap, esta aplicación ofrece una interfaz clara y atractiva, facilitando la entrada y validación de datos con retroalimentación visual para errores.
